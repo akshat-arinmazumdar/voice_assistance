@@ -1,0 +1,12 @@
+- [ ] Check if Git is installed.
+- [ ] Install Git if not installed.
+- [ ] Check if GitHub CLI is installed.
+- [ ] Install GitHub CLI if not installed.
+- [ ] Navigate to project directory and initialize Git if not already.
+- [ ] Create README.md file.
+- [ ] Authenticate with GitHub if needed.
+- [ ] Create new GitHub repository.
+- [ ] Add files to Git.
+- [ ] Commit changes.
+- [ ] Push to GitHub.
+- [ ] Verify the push.
